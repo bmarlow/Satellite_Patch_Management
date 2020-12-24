@@ -1,0 +1,5 @@
+---
+# defaults file for Satellite_Patch_Management
+publish_only: False
+rollback: False
+FOREMAN_VALIDATE_CERTS: True
